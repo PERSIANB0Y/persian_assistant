@@ -4,6 +4,9 @@ that you can say what you want in persian and command anything you want to it
 then it responses to you by controlling a arduino board to controll electrical things like LEDs 
 and/or say the response in persian too
 
+# startup
+### you will need to install some libraries to run this app
+### you can install them automatically by running the libraries_check.py
 
 ## important
 ### persian tts model will add soon

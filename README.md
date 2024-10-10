@@ -6,7 +6,7 @@ and/or say the response in persian too
 
 # startup
 ### you will need to install some libraries to run this app
-### you can install them automatically by running the libraries_check.py
+### you can install them automatically by running the check_libraries.py
 
 ## important
 ### persian tts model will add soon
